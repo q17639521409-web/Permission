@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B3A933-EEDA-45A9-82EF-3FBCF3A49543}|..\\Permission.Service\\Permission.Service.csproj|c:\\achong\\project-main\\github\\permission\\main\\permission.service\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9331D51-0F5E-43B8-914E-F8BD5FBD5A6C}|..\\Permission.IService\\Permission.IService.csproj|c:\\achong\\project-main\\github\\permission\\main\\permission.iservice\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5946EF8E-0599-4C36-AB23-DA4BE5BD47F7}|Permission.WebAPI.csproj|c:\\achong\\project-main\\github\\permission\\main\\permission.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5946EF8E-0599-4C36-AB23-DA4BE5BD47F7}|Permission.WebAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5946EF8E-0599-4C36-AB23-DA4BE5BD47F7}|Permission.WebAPI.csproj|c:\\achong\\project-main\\github\\permission\\main\\permission.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5946EF8E-0599-4C36-AB23-DA4BE5BD47F7}|Permission.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:46:37.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.IService\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Permission.IService\\IService\\IUserService.cs",
+              "ToolTip": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.IService\\IService\\IUserService.cs",
+              "RelativeToolTip": "..\\Permission.IService\\IService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:43:43.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.Service\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Permission.Service\\Service\\UserService.cs",
+              "ToolTip": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.Service\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\Permission.Service\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:43:21.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Achong\\Project-Main\\GitHub\\Permission\\Main\\Permission.WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:41:49.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
